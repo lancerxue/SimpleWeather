@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleWeather</string>
+    <string name="text_setting">设置</string>
+    <string name="text_back">意见反馈</string>
+    <string name="edit_yj_hint">请留下你的宝贵意见</string>
+    <string name="edit_phone_hint">请留下您的联系方式 ，方便后期联系您</string>
+    <string name="btn_fankui">反馈</string>
+    <string name="text_about">关于</string>
+</resources>
